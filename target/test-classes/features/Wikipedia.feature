@@ -23,7 +23,7 @@ Then User clicks wiki search button
 
     Examples:
       | Input           | expectedTitle   | expectedMainHeader | expectedImageHeader |
-      | Steve Jobs      | Steve Jobs      | Steve Jobs         | Steve Job          |
+      | Steve Jobs      | Steve Jobs      | Steve Jobs         | Steve Jobs        |
       | Albert Einstein | Albert Einstein | Albert Einstein    | Albert Einstein     |
       | James Cameron   | James Cameron   | James Cameron      | James Cameron       |
       | Lady Gaga       | Lady Gaga       | Lady Gaga          | Lady Gaga           |
